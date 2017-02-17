@@ -4,7 +4,7 @@ from Unit 1 - 5 below  */
 body{
 	text-align: center;
 }
-.board{
+#game-board{
 	height: 50%;
 	width: 50%;
 	display: inline-block;
