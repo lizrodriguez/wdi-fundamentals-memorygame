@@ -9,7 +9,10 @@ body{
 	width: 50%;
 	display: inline-block;
 }
-
+img {
+	height: 200px;
+	width: 150px;
+}
 .card{
 	height: 200px;
 	width: 150px;
